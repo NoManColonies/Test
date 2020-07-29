@@ -1,0 +1,21 @@
+.quark__bold
+{
+    font-family: 'Quark-Bold';
+}
+
+.quark__light
+{
+    font-family: 'Quark-Light';
+}
+
+@font-face
+{
+    font-family: 'Quark-Bold';
+    src: url('../font-asset/Quark-Bold.otf');
+}
+
+@font-face
+{
+    font-family: 'Quark-Light';
+    src: url('../font-asset/Quark-Light.otf');
+}
