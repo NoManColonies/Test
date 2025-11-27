@@ -13,7 +13,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-responsive": "^8.1.0",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "responsive-react": "^3.0.2",
     "shallow-equal": "^1.2.1"
   },
